@@ -13,7 +13,7 @@
 
 ### Reach Me :
 
-<a href="linkedin.com/in/matthew-maged-43460bbb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matthew-maged-43460bbb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack :
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
