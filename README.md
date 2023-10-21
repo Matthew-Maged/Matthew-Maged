@@ -31,15 +31,15 @@
 ## :bar_chart: My Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matthew-Maged&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<br>
-</br>
+<!--
 <p align = "left">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Matthew-Maged&theme=windows-dark&border_radius=2.4&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&ring=EB243D&fire=FFA500&border=EB5454&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
+-->
 
 <!-- <a href="https://komarev.com/ghpvc/?username=Matthew-Maged&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MatthewMaged&style=for-the-badge">
 </a>
-
+-->
 
 
