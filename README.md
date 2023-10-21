@@ -13,10 +13,10 @@
 - 👨‍💻 I'm always willing to learn and apply new things.
 - :violin: Fun fact: I love listening to classical music 🎵 while coding.
 
-## 🚀 Reach Me :
+## 🚀 Reach Me:
 <a href="https://www.linkedin.com/in/matthew-maged-43460bbb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## :computer: Tech Stack :
+## :computer: Tech Stack:
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
@@ -28,12 +28,16 @@
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=plastic)
 
 
-
+## :bar_chart: My Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matthew-Maged&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Matthew-Maged&theme=windows-dark&border_radius=2.4&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&ring=EB243D&fire=FFA500&border=EB5454&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
+
 <!-- <a href="https://komarev.com/ghpvc/?username=Matthew-Maged&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MatthewMaged&style=for-the-badge">
-</a> -->
-</p>
+</a>
+
 
 
