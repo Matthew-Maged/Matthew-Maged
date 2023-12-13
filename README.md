@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=410&height=70&separator=%3C&lines=Embedded+Software+Engineer%3C_delay_ms(1000);" alt="Typing SVG" /></a>
 </p> 
 
-## :eyes: About Me: 
+## 👀 About Me: 
 - 🏢 I'm a senior CSE student who is interested in Embedded SW Engineering.
 - 👨‍💻 I'm always willing to learn and apply new things.
 - :violin: Fun fact: I love listening to classical music 🎵 while coding.
@@ -16,7 +16,7 @@
 ## 🚀 Reach Me:
 <a href="https://www.linkedin.com/in/matthew-maged-43460bbb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## :computer: Tech Stack:
+## 💻 Tech Stack:
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
