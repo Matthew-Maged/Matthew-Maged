@@ -28,7 +28,7 @@
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=plastic)
 
 
-## :bar_chart: My Stats:
+## 📊 My Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matthew-Maged&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 <!--
