@@ -9,8 +9,8 @@
 </p> 
 
 ## 👀 About Me: 
-- 🏢 I'm a senior CSE student who is interested in Embedded SW Engineering.
-- 👨‍💻 I'm always willing to learn and apply new things.
+- 🏢 I'm a fresh CSE graduate who is interested in Software Development.
+- 👨‍💻 Always willing to learn and apply new things.
 - :violin: Fun fact: I love listening to classical music 🎵 while coding.
 
 ## 🚀 Reach Me:
