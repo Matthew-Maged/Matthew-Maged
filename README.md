@@ -5,7 +5,7 @@
 
  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=410&height=70&separator=%3C&lines=Embedded+Software+Engineer%3C_delay_ms(1000);" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=410&height=70&separator=%3C&lines=Computer+&+Systems+Engineer%3C_delay_ms(1000);" alt="Typing SVG" /></a>
 </p> 
 
 ## 👀 About Me: 
