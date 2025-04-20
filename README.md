@@ -31,8 +31,6 @@
 ## 📊 My Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matthew-Maged&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<a href="https://data.typeracer.com/pit/profile?user=matt001&ref=badge" target="_top"><img align="right" src="https://data.typeracer.com/misc/badge?user=matt001" border="0" alt="TypeRacer.com scorecard for user matt001"/></a>
-
 <!--
 <p align = "left">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Matthew-Maged&theme=windows-dark&border_radius=2.4&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&ring=EB243D&fire=FFA500&border=EB5454&hide_longest_streak=true" alt="GitHub Streak" /></a>
