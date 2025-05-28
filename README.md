@@ -14,7 +14,7 @@
 - :violin: Fun fact: I love listening to classical music 🎵 while coding.
 
 ## 🚀 Reach Me:
-<a href="https://www.linkedin.com/in/matthew-maged-43460bbb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matthew-maged-cse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
