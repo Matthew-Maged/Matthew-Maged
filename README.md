@@ -9,8 +9,8 @@
 </p> 
 
 ## 👀 About Me: 
-- 🏢 I'm CSE graduate who is interested in Software Development.
-- 👨‍💻 Always willing to learn and apply new things.
+- 🏢 CSE graduate, interested in Software Engineering.
+- 👨‍💻 Curiosity-driven, always willing to learn and apply new things.
 - :violin: Fun fact: I love listening to classical music 🎵 while coding.
 
 ## 🚀 Reach Me:
