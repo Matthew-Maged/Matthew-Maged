@@ -11,7 +11,7 @@
 ## 👀 About Me: 
 - 🏢 CSE graduate, interested in Software Engineering.
 - 👨‍💻 Curiosity-driven, always willing to learn and apply new things.
-- :violin: Fun fact: I love listening to classical music 🎵 while coding.
+- :violin: Fun fact, I love listening to classical music 🎵 while coding.
 
 ## 🚀 Reach Me:
 <a href="https://www.linkedin.com/in/matthew-maged-cse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
